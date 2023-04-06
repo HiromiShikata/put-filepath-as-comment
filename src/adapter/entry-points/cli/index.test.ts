@@ -1,9 +1,15 @@
 import { execSync } from 'child_process';
-import {existsSync, mkdirSync, readFileSync, rmdirSync, writeFileSync} from 'fs-extra';
+import {
+  existsSync,
+  mkdirSync,
+  readFileSync,
+  rmdirSync,
+  writeFileSync,
+} from 'fs-extra';
 
 describe('commander program', () => {
   it('should output file contents', () => {
-    if(existsSync('./tmp/testdata')){
+    if (existsSync('./tmp/testdata')) {
       rmdirSync('./tmp/testdata', { recursive: true });
     }
     mkdirSync('./tmp/testdata/src/domain/entities', { recursive: true });
