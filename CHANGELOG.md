@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/HiromiShikata/put-filepath-as-comment/compare/v1.0.2...v1.0.3) (2025-01-04)
+
+
+### Bug Fixes
+
+* **deps:** update dependency commander to v13 ([f9a7d31](https://github.com/HiromiShikata/put-filepath-as-comment/commit/f9a7d313b35da55175c58cd20df9c0f0acc4bfc1))
+
 ## [1.0.2](https://github.com/HiromiShikata/put-filepath-as-comment/compare/v1.0.1...v1.0.2) (2025-01-04)
 
 
