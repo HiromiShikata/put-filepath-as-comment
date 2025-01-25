@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/HiromiShikata/put-filepath-as-comment/compare/v1.0.4...v1.0.5) (2025-01-25)
+
+
+### Bug Fixes
+
+* **deps:** update all non-major dependencies ([23818e4](https://github.com/HiromiShikata/put-filepath-as-comment/commit/23818e412ae97afcd6ccbfa1333e9a633b4aacec))
+
 ## [1.0.4](https://github.com/HiromiShikata/put-filepath-as-comment/compare/v1.0.3...v1.0.4) (2025-01-18)
 
 
