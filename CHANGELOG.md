@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/HiromiShikata/put-filepath-as-comment/compare/v1.0.6...v1.0.7) (2025-08-09)
+
+
+### Bug Fixes
+
+* **deps:** update dependency fs-extra to v11.3.1 ([bf20640](https://github.com/HiromiShikata/put-filepath-as-comment/commit/bf20640f0754f922a6699c6e631f2393ffdb0163))
+
 ## [1.0.6](https://github.com/HiromiShikata/put-filepath-as-comment/compare/v1.0.5...v1.0.6) (2025-05-18)
 
 
